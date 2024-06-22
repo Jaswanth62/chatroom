@@ -1,3 +1,4 @@
+//SERVERSIDE JAVASCRIPT FILE
 const path = require("path");
 const http = require("http");
 const express = require("express");
